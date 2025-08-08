@@ -4,18 +4,12 @@ A simple Laravel package to manage FTP operations like upload, download, list fi
 
 ---
 
-## 📦 Installation
+## Installation
 ```bash
 composer require ftpmanager/laravel-ftp
 ```
 
-## 🧪 Example Controller Usage (All Methods)
-
-You can use the FTP Manager in a controller using either the **Facade** or the **FtpManager class** directly.
-
----
-
-### 🧱 How to user
+### How to user
 
 ```php
 use Ftp;
