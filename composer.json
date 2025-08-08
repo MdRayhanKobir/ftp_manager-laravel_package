@@ -1,0 +1,15 @@
+{
+    "name": "ftpmanager/laravel-ftp-manager",
+    "description": "Laravel FTP Manager Package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ftpmanager\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+         "php": "^8.0"
+    }
+}
